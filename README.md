@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌐 Skilled in Python, C++, C and Arduino.
 
 ### Let's Connect
-- 💼 [LinkedIn](www.linkedin.com/in/nitzankoll)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitzankoll/)
 
 <!--
 ### Featured Projects
