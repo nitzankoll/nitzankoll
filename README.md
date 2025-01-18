@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ### Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/nitzankoll/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitzan-kolatacz/)
 
 <!--
 ### Featured Projects
