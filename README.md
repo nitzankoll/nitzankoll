@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm nitzan koll 👋
+# Hi, I'm nitzan kolatacz 👋
 
 🚀 **Tech Enthusiast | Programmer | Robotics Specialist**
 
